@@ -5,13 +5,24 @@ body {
 	background: url('../assets/geometry.png');
 }
 
+
+.menu{
+	min-width: 100%;
+}
+
+.panel{
+	background-color: #ADD8E6;
+	opacity: 0.8;
+	border-radius: 10px;
+}
+
+/*img{
+	opacity: 0.99;
+}*/
+
 a:focus, a:hover{
 	opacity: 0.4;
 }
 a h3:focus, a h3:hover{
 	opacity: 0.4;
-}
-
-.menu{
-	min-width: 100%;
 }
